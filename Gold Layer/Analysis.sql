@@ -1,6 +1,6 @@
 /* ============================================================================
    Project: Zomato India Market Analysis & Data Pipeline
-   Author: Sakina Kaidawala
+   Author: Sakina Godhy
    Description: Gold Layer - Business Intelligence & Strategic Insights
                 This script queries the cleansed s_zomato_india table to extract 
                 actionable insights regarding market penetration, pricing 
