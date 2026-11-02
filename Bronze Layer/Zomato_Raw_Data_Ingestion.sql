@@ -1,6 +1,6 @@
 /* ============================================================================
    Project: Zomato India Market Analysis & Data Pipeline
-   Author: Sakina Kaidawala
+   Author: Sakina Godhy
    Description: Bronze Layer - Raw Data Ingestion
                 This script creates the initial database schema, defines the 
                 raw staging tables (b_zomato, country_codes), and bulk-loads 
