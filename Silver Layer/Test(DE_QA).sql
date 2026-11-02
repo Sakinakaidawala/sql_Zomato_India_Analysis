@@ -1,6 +1,6 @@
 /* ============================================================================
    Project: Zomato India Market Analysis & Data Pipeline
-   Author: Sakina Kaidawala
+   Author: Sakina Godhy
    Description: Data Exploration & Quality Assurance
                 This script executes exploratory data analysis (EDA) on the raw 
                 b_zomato table to identify duplicates, missing values, schema 
